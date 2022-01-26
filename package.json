@@ -1,0 +1,24 @@
+{
+  "name": "test-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gatsbyjs/gatsby-starter-minimal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gatsbyjs/gatsby-starter-minimal/issues"
+  },
+  "homepage": "https://github.com/gatsbyjs/gatsby-starter-minimal#readme",
+  "dependencies": {
+    "gatsby": "^4.6.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
